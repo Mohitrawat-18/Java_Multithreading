@@ -1,4 +1,4 @@
-package Locks;
+package Locks_01;
 
 public class Demo {
     public static void main(String[] args) throws InterruptedException {

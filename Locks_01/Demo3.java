@@ -1,4 +1,4 @@
-package Locks;
+package Locks_01;
 
 public class Demo3 {
     public static void main(String[] args) {
