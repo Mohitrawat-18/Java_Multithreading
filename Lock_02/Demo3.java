@@ -4,7 +4,7 @@ import java.util.concurrent.locks.*;
 
 public class Demo3 {
     public static void main(String[] args) {
-        // Stampted Lock
+        // Stamped Lock
         
         SharedResource2 sr = new SharedResource2();
         Thread r1 = new Thread(() -> sr.read());
